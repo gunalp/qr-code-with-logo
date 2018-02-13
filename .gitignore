@@ -1,0 +1,8 @@
+node_modules
+.idea
+input/*
+!input/.gitkeep
+outputs/*
+!outputs/.gitkeep
+temps/*
+!temps/.gitkeep
